@@ -42,5 +42,8 @@
 - PDF invoice generation for customers
   
 ## Here's the preview
-https://github.com/user-attachments/assets/d8b06f7a-d655-493d-a6be-cacd432a5a30
+
+https://github.com/user-attachments/assets/79955137-fb5b-4d23-846f-9e0bbec13323
+
+
 
