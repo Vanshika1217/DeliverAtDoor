@@ -25,4 +25,6 @@ Database: MongoDB
 Authentication: JWT (JSON Web Token)
 PDF Generator: jsPDF
 Real-Time Tracking: Socket.io + OpenStreetMap + Leaflet
+## Here's the preview
+
 
