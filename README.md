@@ -20,7 +20,7 @@ Location is shown on the map using OpenStreetMap with Leaflet Features
 
  ## Tech Stack
 
-https://github.com/user-attachments/assets/d8b06f7a-d655-493d-a6be-cacd432a5a30
+
 
 
  Frontend: React.js, Bootstrap, Leaflet (for maps), Socket.io-client
@@ -30,5 +30,5 @@ Authentication: JWT (JSON Web Token)
 PDF Generator: jsPDF
 Real-Time Tracking: Socket.io + OpenStreetMap + Leaflet
 ## Here's the preview
-
+https://github.com/user-attachments/assets/d8b06f7a-d655-493d-a6be-cacd432a5a30
 
