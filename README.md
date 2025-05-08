@@ -19,6 +19,10 @@ Share real-time location using Socket.io
 Location is shown on the map using OpenStreetMap with Leaflet Features
 
  ## Tech Stack
+
+https://github.com/user-attachments/assets/d8b06f7a-d655-493d-a6be-cacd432a5a30
+
+
  Frontend: React.js, Bootstrap, Leaflet (for maps), Socket.io-client
 Backend: Node.js, Express.js
 Database: MongoDB
